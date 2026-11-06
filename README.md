@@ -184,7 +184,7 @@ Built-in constants (typical values for III-V quantum dots):
 
 This repository can be cited using:
 ```
-@software{casimir_QD,
+@article{casimir_QD,
   author = {Tang, Kun and Huang, Peng and Zhang, Yongyou and Zhong, Haizheng},
     title = {Casimir-like Excitonic States from Twin-Structured Type-II Core/Shell Quantum Dots},
     journal = {Nano Letters},
